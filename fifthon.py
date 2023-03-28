@@ -109,7 +109,7 @@ async def _(event):
 ☆ Ping : `{ms}`
 ☆ Date : `{m9zpi}`
 ☆ ID : `{event.sender_id}`
-☆ Source lucithon : @q_i_y**
+☆ Source lucithon : @x_k_5**
 ''')
 
 
